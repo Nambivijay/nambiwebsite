@@ -1,0 +1,73 @@
+#main-page{
+    background-color:white;
+    display: flex;
+    justify-content: center;
+}
+.login-form{
+    width: 300px;
+    height: 300px;
+    background-color:white;
+    border-style: groove;
+
+}
+.one{
+    width: 50px;
+    height: 25px;
+    background-color: white;
+    padding-left: 85px;
+    padding-bottom: 15px;
+}
+.box1{
+    border-radius:5px;
+    padding: 8px;
+    margin-left: 50px;
+    margin-top:10px;
+    width: 65%;
+}
+.box2{
+    border-radius:5px;
+    padding: 8px;
+    margin-left: 50px;
+    margin-top:10px;
+    width: 65%;
+}
+.butt{
+    display: flex;
+    justify-content: center;
+}
+.log{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 8px 20px;
+    width: 55%;
+}
+.break{
+    justify-content: space-between;
+}
+.line{
+    margin-right:40px ;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.link{
+    display: flex;
+    justify-content: center;
+}
+.forget{
+    display: flex;
+    justify-content: center;
+}
+.box-3{
+    width: 295px;
+    height:50px;
+    background-color:white;
+    border-style: groove;
+    display: flex;
+    justify-content: center;
+}
+.sign{
+    margin-top: 15px;
+}
